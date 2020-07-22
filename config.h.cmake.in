@@ -1,5 +1,7 @@
 /* config.h.in.  Generated from configure.ac by autoheader.  */
 
+#define HAVE_EVP_MD_CTX_NEW
+
 /* Directory to chroot to */
 #define CHROOT_DIR "@UNBOUND_CHROOT_DIR@"
 
